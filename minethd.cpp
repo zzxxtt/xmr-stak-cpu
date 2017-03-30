@@ -26,7 +26,7 @@
 #include <chrono>
 #include <thread>
 #include "console.h"
-
+#include <cstring>
 #ifdef _WIN32
 #include <windows.h>
 
